@@ -1,3 +1,3 @@
-import { setupStore } from "./store";
+import { setupStore } from "./store.js";
 
 setupStore()
